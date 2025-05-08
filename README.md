@@ -1,2 +1,1 @@
-# Word-Scramble-Game
-The Word Scramble Game challenges players to guess a scrambled word within a limited number of attempts. Players can choose from three difficulty levels: Easy, Medium, or Hard. The game tracks the score and allows for multiple rounds, providing an engaging way to test word recognition and memory.
+A fun word guessing game where players need to guess a scrambled word within a limited number of attempts. You can select your difficulty level—Easy, Medium, or Hard. Each round provides the scrambled word, and the player must guess it correctly before running out of attempts. Play multiple rounds and track your score!
